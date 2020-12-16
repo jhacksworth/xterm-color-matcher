@@ -1,0 +1,4353 @@
+[ {
+  "color-id" : 0,
+  "hex-string" : "#000000",
+  "is-ansi" : true,
+  "emacs-name" : "black",
+  "hsl" : {
+    "s" : 0,
+    "l" : 0,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 0%, 0%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(0, 0, 0)"
+}, {
+  "color-id" : 1,
+  "hex-string" : "#cd0000",
+  "is-ansi" : true,
+  "emacs-name" : "red",
+  "hsl" : {
+    "s" : 100,
+    "l" : 40,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 100%, 40%)",
+  "rgb" : {
+    "r" : 205,
+    "g" : 0,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(205, 0, 0)"
+}, {
+  "color-id" : 2,
+  "hex-string" : "#00cd00",
+  "is-ansi" : true,
+  "emacs-name" : "green",
+  "hsl" : {
+    "s" : 100,
+    "l" : 40,
+    "h" : 120
+  },
+  "hsl-css" : "hsl(120, 100%, 40%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 205,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(0, 205, 0)"
+}, {
+  "color-id" : 3,
+  "hex-string" : "#cdcd00",
+  "is-ansi" : true,
+  "emacs-name" : "yellow",
+  "hsl" : {
+    "s" : 100,
+    "l" : 40,
+    "h" : 60
+  },
+  "hsl-css" : "hsl(60, 100%, 40%)",
+  "rgb" : {
+    "r" : 205,
+    "g" : 205,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(205, 205, 0)"
+}, {
+  "color-id" : 4,
+  "hex-string" : "#0000ee",
+  "is-ansi" : true,
+  "emacs-name" : "blue",
+  "hsl" : {
+    "s" : 100,
+    "l" : 47,
+    "h" : 240
+  },
+  "hsl-css" : "hsl(240, 100%, 47%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 238
+  },
+  "rgb-css" : "rgb(0, 0, 238)"
+}, {
+  "color-id" : 5,
+  "hex-string" : "#cd00cd",
+  "is-ansi" : true,
+  "emacs-name" : "magenta",
+  "hsl" : {
+    "s" : 100,
+    "l" : 40,
+    "h" : 300
+  },
+  "hsl-css" : "hsl(300, 100%, 40%)",
+  "rgb" : {
+    "r" : 205,
+    "g" : 0,
+    "b" : 205
+  },
+  "rgb-css" : "rgb(205, 0, 205)"
+}, {
+  "color-id" : 6,
+  "hex-string" : "#00cdcd",
+  "is-ansi" : true,
+  "emacs-name" : "cyan",
+  "hsl" : {
+    "s" : 100,
+    "l" : 40,
+    "h" : 180
+  },
+  "hsl-css" : "hsl(180, 100%, 40%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 205,
+    "b" : 205
+  },
+  "rgb-css" : "rgb(0, 205, 205)"
+}, {
+  "color-id" : 7,
+  "hex-string" : "#e5e5e5",
+  "is-ansi" : true,
+  "emacs-name" : "white",
+  "hsl" : {
+    "s" : 0,
+    "l" : 90,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 0%, 90%)",
+  "rgb" : {
+    "r" : 229,
+    "g" : 229,
+    "b" : 229
+  },
+  "rgb-css" : "rgb(229, 229, 229)"
+}, {
+  "color-id" : 8,
+  "hex-string" : "#7f7f7f",
+  "is-ansi" : true,
+  "emacs-name" : "brightblack",
+  "hsl" : {
+    "s" : 0,
+    "l" : 50,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 0%, 50%)",
+  "rgb" : {
+    "r" : 127,
+    "g" : 127,
+    "b" : 127
+  },
+  "rgb-css" : "rgb(127, 127, 127)"
+}, {
+  "color-id" : 9,
+  "hex-string" : "#ff0000",
+  "is-ansi" : true,
+  "emacs-name" : "brightred",
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(255, 0, 0)"
+}, {
+  "color-id" : 10,
+  "hex-string" : "#00ff00",
+  "is-ansi" : true,
+  "emacs-name" : "brightgreen",
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 120
+  },
+  "hsl-css" : "hsl(120, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(0, 255, 0)"
+}, {
+  "color-id" : 11,
+  "hex-string" : "#ffff00",
+  "is-ansi" : true,
+  "emacs-name" : "brightyellow",
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 60
+  },
+  "hsl-css" : "hsl(60, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 0
+  },
+  "rgb-css" : "rgb(255, 255, 0)"
+}, {
+  "color-id" : 12,
+  "hex-string" : "#5c5cff",
+  "is-ansi" : true,
+  "emacs-name" : "brightblue",
+  "hsl" : {
+    "s" : 100,
+    "l" : 68,
+    "h" : 240
+  },
+  "hsl-css" : "hsl(240, 100%, 68%)",
+  "rgb" : {
+    "r" : 92,
+    "g" : 92,
+    "b" : 255
+  },
+  "rgb-css" : "rgb(92, 92, 255)"
+}, {
+  "color-id" : 13,
+  "hex-string" : "#ff00ff",
+  "is-ansi" : true,
+  "emacs-name" : "brightmagenta",
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 300
+  },
+  "hsl-css" : "hsl(300, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 255
+  },
+  "rgb-css" : "rgb(255, 0, 255)"
+}, {
+  "color-id" : 14,
+  "hex-string" : "#00ffff",
+  "is-ansi" : true,
+  "emacs-name" : "brightcyan",
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 180
+  },
+  "hsl-css" : "hsl(180, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 255
+  },
+  "rgb-css" : "rgb(0, 255, 255)"
+}, {
+  "color-id" : 15,
+  "hex-string" : "#ffffff",
+  "is-ansi" : true,
+  "emacs-name" : "brightwhite",
+  "hsl" : {
+    "s" : 0,
+    "l" : 100,
+    "h" : 0
+  },
+  "hsl-css" : "hsl(0, 0%, 100%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 255
+  },
+  "rgb-css" : "rgb(255, 255, 255)"
+}, {
+  "rgb-css" : "rgb(0, 0, 0)",
+  "color-id" : 16,
+  "hex-string" : "#000000",
+  "hsl-css" : "hsl(0, 0%, 0%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 0,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-16"
+}, {
+  "rgb-css" : "rgb(0, 0, 95)",
+  "color-id" : 17,
+  "hex-string" : "#00005f",
+  "hsl-css" : "hsl(240, 100%, 19%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-17"
+}, {
+  "rgb-css" : "rgb(0, 0, 135)",
+  "color-id" : 18,
+  "hex-string" : "#000087",
+  "hsl-css" : "hsl(240, 100%, 26%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-18"
+}, {
+  "rgb-css" : "rgb(0, 0, 175)",
+  "color-id" : 19,
+  "hex-string" : "#0000af",
+  "hsl-css" : "hsl(240, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-19"
+}, {
+  "rgb-css" : "rgb(0, 0, 215)",
+  "color-id" : 20,
+  "hex-string" : "#0000d7",
+  "hsl-css" : "hsl(240, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-20"
+}, {
+  "rgb-css" : "rgb(0, 0, 255)",
+  "color-id" : 21,
+  "hex-string" : "#0000ff",
+  "hsl-css" : "hsl(240, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-21"
+}, {
+  "rgb-css" : "rgb(0, 95, 0)",
+  "color-id" : 22,
+  "hex-string" : "#005f00",
+  "hsl-css" : "hsl(120, 100%, 19%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-22"
+}, {
+  "rgb-css" : "rgb(0, 95, 95)",
+  "color-id" : 23,
+  "hex-string" : "#005f5f",
+  "hsl-css" : "hsl(180, 100%, 19%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-23"
+}, {
+  "rgb-css" : "rgb(0, 95, 135)",
+  "color-id" : 24,
+  "hex-string" : "#005f87",
+  "hsl-css" : "hsl(198, 100%, 26%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 198
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-24"
+}, {
+  "rgb-css" : "rgb(0, 95, 175)",
+  "color-id" : 25,
+  "hex-string" : "#005faf",
+  "hsl-css" : "hsl(207, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 207
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-25"
+}, {
+  "rgb-css" : "rgb(0, 95, 215)",
+  "color-id" : 26,
+  "hex-string" : "#005fd7",
+  "hsl-css" : "hsl(213, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 213
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-26"
+}, {
+  "rgb-css" : "rgb(0, 95, 255)",
+  "color-id" : 27,
+  "hex-string" : "#005fff",
+  "hsl-css" : "hsl(218, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 218
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-27"
+}, {
+  "rgb-css" : "rgb(0, 135, 0)",
+  "color-id" : 28,
+  "hex-string" : "#008700",
+  "hsl-css" : "hsl(120, 100%, 26%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-28"
+}, {
+  "rgb-css" : "rgb(0, 135, 95)",
+  "color-id" : 29,
+  "hex-string" : "#00875f",
+  "hsl-css" : "hsl(162, 100%, 26%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 162
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-29"
+}, {
+  "rgb-css" : "rgb(0, 135, 135)",
+  "color-id" : 30,
+  "hex-string" : "#008787",
+  "hsl-css" : "hsl(180, 100%, 26%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-30"
+}, {
+  "rgb-css" : "rgb(0, 135, 175)",
+  "color-id" : 31,
+  "hex-string" : "#0087af",
+  "hsl-css" : "hsl(194, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 194
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-31"
+}, {
+  "rgb-css" : "rgb(0, 135, 215)",
+  "color-id" : 32,
+  "hex-string" : "#0087d7",
+  "hsl-css" : "hsl(202, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 202
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-32"
+}, {
+  "rgb-css" : "rgb(0, 135, 255)",
+  "color-id" : 33,
+  "hex-string" : "#0087ff",
+  "hsl-css" : "hsl(208, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 208
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-33"
+}, {
+  "rgb-css" : "rgb(0, 175, 0)",
+  "color-id" : 34,
+  "hex-string" : "#00af00",
+  "hsl-css" : "hsl(120, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-34"
+}, {
+  "rgb-css" : "rgb(0, 175, 95)",
+  "color-id" : 35,
+  "hex-string" : "#00af5f",
+  "hsl-css" : "hsl(153, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 153
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-35"
+}, {
+  "rgb-css" : "rgb(0, 175, 135)",
+  "color-id" : 36,
+  "hex-string" : "#00af87",
+  "hsl-css" : "hsl(166, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 166
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-36"
+}, {
+  "rgb-css" : "rgb(0, 175, 175)",
+  "color-id" : 37,
+  "hex-string" : "#00afaf",
+  "hsl-css" : "hsl(180, 100%, 34%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-37"
+}, {
+  "rgb-css" : "rgb(0, 175, 215)",
+  "color-id" : 38,
+  "hex-string" : "#00afd7",
+  "hsl-css" : "hsl(191, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 191
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-38"
+}, {
+  "rgb-css" : "rgb(0, 175, 255)",
+  "color-id" : 39,
+  "hex-string" : "#00afff",
+  "hsl-css" : "hsl(199, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 199
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-39"
+}, {
+  "rgb-css" : "rgb(0, 215, 0)",
+  "color-id" : 40,
+  "hex-string" : "#00d700",
+  "hsl-css" : "hsl(120, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-40"
+}, {
+  "rgb-css" : "rgb(0, 215, 95)",
+  "color-id" : 41,
+  "hex-string" : "#00d75f",
+  "hsl-css" : "hsl(147, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 147
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-41"
+}, {
+  "rgb-css" : "rgb(0, 215, 135)",
+  "color-id" : 42,
+  "hex-string" : "#00d787",
+  "hsl-css" : "hsl(158, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 158
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-42"
+}, {
+  "rgb-css" : "rgb(0, 215, 175)",
+  "color-id" : 43,
+  "hex-string" : "#00d7af",
+  "hsl-css" : "hsl(169, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 169
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-43"
+}, {
+  "rgb-css" : "rgb(0, 215, 215)",
+  "color-id" : 44,
+  "hex-string" : "#00d7d7",
+  "hsl-css" : "hsl(180, 100%, 42%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-44"
+}, {
+  "rgb-css" : "rgb(0, 215, 255)",
+  "color-id" : 45,
+  "hex-string" : "#00d7ff",
+  "hsl-css" : "hsl(189, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 189
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-45"
+}, {
+  "rgb-css" : "rgb(0, 255, 0)",
+  "color-id" : 46,
+  "hex-string" : "#00ff00",
+  "hsl-css" : "hsl(120, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-46"
+}, {
+  "rgb-css" : "rgb(0, 255, 95)",
+  "color-id" : 47,
+  "hex-string" : "#00ff5f",
+  "hsl-css" : "hsl(142, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 142
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-47"
+}, {
+  "rgb-css" : "rgb(0, 255, 135)",
+  "color-id" : 48,
+  "hex-string" : "#00ff87",
+  "hsl-css" : "hsl(152, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 152
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-48"
+}, {
+  "rgb-css" : "rgb(0, 255, 175)",
+  "color-id" : 49,
+  "hex-string" : "#00ffaf",
+  "hsl-css" : "hsl(161, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 161
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-49"
+}, {
+  "rgb-css" : "rgb(0, 255, 215)",
+  "color-id" : 50,
+  "hex-string" : "#00ffd7",
+  "hsl-css" : "hsl(171, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 171
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-50"
+}, {
+  "rgb-css" : "rgb(0, 255, 255)",
+  "color-id" : 51,
+  "hex-string" : "#00ffff",
+  "hsl-css" : "hsl(180, 100%, 50%)",
+  "rgb" : {
+    "r" : 0,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-51"
+}, {
+  "rgb-css" : "rgb(95, 0, 0)",
+  "color-id" : 52,
+  "hex-string" : "#5f0000",
+  "hsl-css" : "hsl(0, 100%, 19%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-52"
+}, {
+  "rgb-css" : "rgb(95, 0, 95)",
+  "color-id" : 53,
+  "hex-string" : "#5f005f",
+  "hsl-css" : "hsl(300, 100%, 19%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-53"
+}, {
+  "rgb-css" : "rgb(95, 0, 135)",
+  "color-id" : 54,
+  "hex-string" : "#5f0087",
+  "hsl-css" : "hsl(282, 100%, 26%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 282
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-54"
+}, {
+  "rgb-css" : "rgb(95, 0, 175)",
+  "color-id" : 55,
+  "hex-string" : "#5f00af",
+  "hsl-css" : "hsl(273, 100%, 34%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 273
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-55"
+}, {
+  "rgb-css" : "rgb(95, 0, 215)",
+  "color-id" : 56,
+  "hex-string" : "#5f00d7",
+  "hsl-css" : "hsl(267, 100%, 42%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 267
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-56"
+}, {
+  "rgb-css" : "rgb(95, 0, 255)",
+  "color-id" : 57,
+  "hex-string" : "#5f00ff",
+  "hsl-css" : "hsl(262, 100%, 50%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 262
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-57"
+}, {
+  "rgb-css" : "rgb(95, 95, 0)",
+  "color-id" : 58,
+  "hex-string" : "#5f5f00",
+  "hsl-css" : "hsl(60, 100%, 19%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 19,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-58"
+}, {
+  "rgb-css" : "rgb(95, 95, 95)",
+  "color-id" : 59,
+  "hex-string" : "#5f5f5f",
+  "hsl-css" : "hsl(0, 0%, 37%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 37,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-59"
+}, {
+  "rgb-css" : "rgb(95, 95, 135)",
+  "color-id" : 60,
+  "hex-string" : "#5f5f87",
+  "hsl-css" : "hsl(240, 17%, 45%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-60"
+}, {
+  "rgb-css" : "rgb(95, 95, 175)",
+  "color-id" : 61,
+  "hex-string" : "#5f5faf",
+  "hsl-css" : "hsl(240, 33%, 53%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-61"
+}, {
+  "rgb-css" : "rgb(95, 95, 215)",
+  "color-id" : 62,
+  "hex-string" : "#5f5fd7",
+  "hsl-css" : "hsl(240, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-62"
+}, {
+  "rgb-css" : "rgb(95, 95, 255)",
+  "color-id" : 63,
+  "hex-string" : "#5f5fff",
+  "hsl-css" : "hsl(240, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-63"
+}, {
+  "rgb-css" : "rgb(95, 135, 0)",
+  "color-id" : 64,
+  "hex-string" : "#5f8700",
+  "hsl-css" : "hsl(78, 100%, 26%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 78
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-64"
+}, {
+  "rgb-css" : "rgb(95, 135, 95)",
+  "color-id" : 65,
+  "hex-string" : "#5f875f",
+  "hsl-css" : "hsl(120, 17%, 45%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-65"
+}, {
+  "rgb-css" : "rgb(95, 135, 135)",
+  "color-id" : 66,
+  "hex-string" : "#5f8787",
+  "hsl-css" : "hsl(180, 17%, 45%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-66"
+}, {
+  "rgb-css" : "rgb(95, 135, 175)",
+  "color-id" : 67,
+  "hex-string" : "#5f87af",
+  "hsl-css" : "hsl(210, 33%, 53%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 210
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-67"
+}, {
+  "rgb-css" : "rgb(95, 135, 215)",
+  "color-id" : 68,
+  "hex-string" : "#5f87d7",
+  "hsl-css" : "hsl(220, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 220
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-68"
+}, {
+  "rgb-css" : "rgb(95, 135, 255)",
+  "color-id" : 69,
+  "hex-string" : "#5f87ff",
+  "hsl-css" : "hsl(225, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 225
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-69"
+}, {
+  "rgb-css" : "rgb(95, 175, 0)",
+  "color-id" : 70,
+  "hex-string" : "#5faf00",
+  "hsl-css" : "hsl(87, 100%, 34%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 87
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-70"
+}, {
+  "rgb-css" : "rgb(95, 175, 95)",
+  "color-id" : 71,
+  "hex-string" : "#5faf5f",
+  "hsl-css" : "hsl(120, 33%, 53%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-71"
+}, {
+  "rgb-css" : "rgb(95, 175, 135)",
+  "color-id" : 72,
+  "hex-string" : "#5faf87",
+  "hsl-css" : "hsl(150, 33%, 53%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 150
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-72"
+}, {
+  "rgb-css" : "rgb(95, 175, 175)",
+  "color-id" : 73,
+  "hex-string" : "#5fafaf",
+  "hsl-css" : "hsl(180, 33%, 53%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-73"
+}, {
+  "rgb-css" : "rgb(95, 175, 215)",
+  "color-id" : 74,
+  "hex-string" : "#5fafd7",
+  "hsl-css" : "hsl(200, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 200
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-74"
+}, {
+  "rgb-css" : "rgb(95, 175, 255)",
+  "color-id" : 75,
+  "hex-string" : "#5fafff",
+  "hsl-css" : "hsl(210, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 210
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-75"
+}, {
+  "rgb-css" : "rgb(95, 215, 0)",
+  "color-id" : 76,
+  "hex-string" : "#5fd700",
+  "hsl-css" : "hsl(93, 100%, 42%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 93
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-76"
+}, {
+  "rgb-css" : "rgb(95, 215, 95)",
+  "color-id" : 77,
+  "hex-string" : "#5fd75f",
+  "hsl-css" : "hsl(120, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-77"
+}, {
+  "rgb-css" : "rgb(95, 215, 135)",
+  "color-id" : 78,
+  "hex-string" : "#5fd787",
+  "hsl-css" : "hsl(140, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 140
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-78"
+}, {
+  "rgb-css" : "rgb(95, 215, 175)",
+  "color-id" : 79,
+  "hex-string" : "#5fd7af",
+  "hsl-css" : "hsl(160, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 160
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-79"
+}, {
+  "rgb-css" : "rgb(95, 215, 215)",
+  "color-id" : 80,
+  "hex-string" : "#5fd7d7",
+  "hsl-css" : "hsl(180, 60%, 61%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-80"
+}, {
+  "rgb-css" : "rgb(95, 215, 255)",
+  "color-id" : 81,
+  "hex-string" : "#5fd7ff",
+  "hsl-css" : "hsl(195, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 195
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-81"
+}, {
+  "rgb-css" : "rgb(95, 255, 0)",
+  "color-id" : 82,
+  "hex-string" : "#5fff00",
+  "hsl-css" : "hsl(98, 100%, 50%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 98
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-82"
+}, {
+  "rgb-css" : "rgb(95, 255, 95)",
+  "color-id" : 83,
+  "hex-string" : "#5fff5f",
+  "hsl-css" : "hsl(120, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-83"
+}, {
+  "rgb-css" : "rgb(95, 255, 135)",
+  "color-id" : 84,
+  "hex-string" : "#5fff87",
+  "hsl-css" : "hsl(135, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 135
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-84"
+}, {
+  "rgb-css" : "rgb(95, 255, 175)",
+  "color-id" : 85,
+  "hex-string" : "#5fffaf",
+  "hsl-css" : "hsl(150, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 150
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-85"
+}, {
+  "rgb-css" : "rgb(95, 255, 215)",
+  "color-id" : 86,
+  "hex-string" : "#5fffd7",
+  "hsl-css" : "hsl(165, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 165
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-86"
+}, {
+  "rgb-css" : "rgb(95, 255, 255)",
+  "color-id" : 87,
+  "hex-string" : "#5fffff",
+  "hsl-css" : "hsl(180, 100%, 69%)",
+  "rgb" : {
+    "r" : 95,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-87"
+}, {
+  "rgb-css" : "rgb(135, 0, 0)",
+  "color-id" : 88,
+  "hex-string" : "#870000",
+  "hsl-css" : "hsl(0, 100%, 26%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-88"
+}, {
+  "rgb-css" : "rgb(135, 0, 95)",
+  "color-id" : 89,
+  "hex-string" : "#87005f",
+  "hsl-css" : "hsl(318, 100%, 26%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 318
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-89"
+}, {
+  "rgb-css" : "rgb(135, 0, 135)",
+  "color-id" : 90,
+  "hex-string" : "#870087",
+  "hsl-css" : "hsl(300, 100%, 26%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-90"
+}, {
+  "rgb-css" : "rgb(135, 0, 175)",
+  "color-id" : 91,
+  "hex-string" : "#8700af",
+  "hsl-css" : "hsl(286, 100%, 34%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 286
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-91"
+}, {
+  "rgb-css" : "rgb(135, 0, 215)",
+  "color-id" : 92,
+  "hex-string" : "#8700d7",
+  "hsl-css" : "hsl(278, 100%, 42%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 278
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-92"
+}, {
+  "rgb-css" : "rgb(135, 0, 255)",
+  "color-id" : 93,
+  "hex-string" : "#8700ff",
+  "hsl-css" : "hsl(272, 100%, 50%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 272
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-93"
+}, {
+  "rgb-css" : "rgb(135, 95, 0)",
+  "color-id" : 94,
+  "hex-string" : "#875f00",
+  "hsl-css" : "hsl(42, 100%, 26%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 42
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-94"
+}, {
+  "rgb-css" : "rgb(135, 95, 95)",
+  "color-id" : 95,
+  "hex-string" : "#875f5f",
+  "hsl-css" : "hsl(0, 17%, 45%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-95"
+}, {
+  "rgb-css" : "rgb(135, 95, 135)",
+  "color-id" : 96,
+  "hex-string" : "#875f87",
+  "hsl-css" : "hsl(300, 17%, 45%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-96"
+}, {
+  "rgb-css" : "rgb(135, 95, 175)",
+  "color-id" : 97,
+  "hex-string" : "#875faf",
+  "hsl-css" : "hsl(270, 33%, 53%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 270
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-97"
+}, {
+  "rgb-css" : "rgb(135, 95, 215)",
+  "color-id" : 98,
+  "hex-string" : "#875fd7",
+  "hsl-css" : "hsl(260, 60%, 61%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 260
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-98"
+}, {
+  "rgb-css" : "rgb(135, 95, 255)",
+  "color-id" : 99,
+  "hex-string" : "#875fff",
+  "hsl-css" : "hsl(255, 100%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 255
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-99"
+}, {
+  "rgb-css" : "rgb(135, 135, 0)",
+  "color-id" : 100,
+  "hex-string" : "#878700",
+  "hsl-css" : "hsl(60, 100%, 26%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 26,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-100"
+}, {
+  "rgb-css" : "rgb(135, 135, 95)",
+  "color-id" : 101,
+  "hex-string" : "#87875f",
+  "hsl-css" : "hsl(60, 17%, 45%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 17,
+    "l" : 45,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-101"
+}, {
+  "rgb-css" : "rgb(135, 135, 135)",
+  "color-id" : 102,
+  "hex-string" : "#878787",
+  "hsl-css" : "hsl(0, 0%, 53%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 53,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-102"
+}, {
+  "rgb-css" : "rgb(135, 135, 175)",
+  "color-id" : 103,
+  "hex-string" : "#8787af",
+  "hsl-css" : "hsl(240, 20%, 61%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-103"
+}, {
+  "rgb-css" : "rgb(135, 135, 215)",
+  "color-id" : 104,
+  "hex-string" : "#8787d7",
+  "hsl-css" : "hsl(240, 50%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-104"
+}, {
+  "rgb-css" : "rgb(135, 135, 255)",
+  "color-id" : 105,
+  "hex-string" : "#8787ff",
+  "hsl-css" : "hsl(240, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-105"
+}, {
+  "rgb-css" : "rgb(135, 175, 0)",
+  "color-id" : 106,
+  "hex-string" : "#87af00",
+  "hsl-css" : "hsl(74, 100%, 34%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 74
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-106"
+}, {
+  "rgb-css" : "rgb(135, 175, 95)",
+  "color-id" : 107,
+  "hex-string" : "#87af5f",
+  "hsl-css" : "hsl(90, 33%, 53%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 90
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-107"
+}, {
+  "rgb-css" : "rgb(135, 175, 135)",
+  "color-id" : 108,
+  "hex-string" : "#87af87",
+  "hsl-css" : "hsl(120, 20%, 61%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-108"
+}, {
+  "rgb-css" : "rgb(135, 175, 175)",
+  "color-id" : 109,
+  "hex-string" : "#87afaf",
+  "hsl-css" : "hsl(180, 20%, 61%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-109"
+}, {
+  "rgb-css" : "rgb(135, 175, 215)",
+  "color-id" : 110,
+  "hex-string" : "#87afd7",
+  "hsl-css" : "hsl(210, 50%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 210
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-110"
+}, {
+  "rgb-css" : "rgb(135, 175, 255)",
+  "color-id" : 111,
+  "hex-string" : "#87afff",
+  "hsl-css" : "hsl(220, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 220
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-111"
+}, {
+  "rgb-css" : "rgb(135, 215, 0)",
+  "color-id" : 112,
+  "hex-string" : "#87d700",
+  "hsl-css" : "hsl(82, 100%, 42%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 82
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-112"
+}, {
+  "rgb-css" : "rgb(135, 215, 95)",
+  "color-id" : 113,
+  "hex-string" : "#87d75f",
+  "hsl-css" : "hsl(100, 60%, 61%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 100
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-113"
+}, {
+  "rgb-css" : "rgb(135, 215, 135)",
+  "color-id" : 114,
+  "hex-string" : "#87d787",
+  "hsl-css" : "hsl(120, 50%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-114"
+}, {
+  "rgb-css" : "rgb(135, 215, 175)",
+  "color-id" : 115,
+  "hex-string" : "#87d7af",
+  "hsl-css" : "hsl(150, 50%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 150
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-115"
+}, {
+  "rgb-css" : "rgb(135, 215, 215)",
+  "color-id" : 116,
+  "hex-string" : "#87d7d7",
+  "hsl-css" : "hsl(180, 50%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-116"
+}, {
+  "rgb-css" : "rgb(135, 215, 255)",
+  "color-id" : 117,
+  "hex-string" : "#87d7ff",
+  "hsl-css" : "hsl(200, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 200
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-117"
+}, {
+  "rgb-css" : "rgb(135, 255, 0)",
+  "color-id" : 118,
+  "hex-string" : "#87ff00",
+  "hsl-css" : "hsl(88, 100%, 50%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 88
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-118"
+}, {
+  "rgb-css" : "rgb(135, 255, 95)",
+  "color-id" : 119,
+  "hex-string" : "#87ff5f",
+  "hsl-css" : "hsl(105, 100%, 69%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 105
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-119"
+}, {
+  "rgb-css" : "rgb(135, 255, 135)",
+  "color-id" : 120,
+  "hex-string" : "#87ff87",
+  "hsl-css" : "hsl(120, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-120"
+}, {
+  "rgb-css" : "rgb(135, 255, 175)",
+  "color-id" : 121,
+  "hex-string" : "#87ffaf",
+  "hsl-css" : "hsl(140, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 140
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-121"
+}, {
+  "rgb-css" : "rgb(135, 255, 215)",
+  "color-id" : 122,
+  "hex-string" : "#87ffd7",
+  "hsl-css" : "hsl(160, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 160
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-122"
+}, {
+  "rgb-css" : "rgb(135, 255, 255)",
+  "color-id" : 123,
+  "hex-string" : "#87ffff",
+  "hsl-css" : "hsl(180, 100%, 76%)",
+  "rgb" : {
+    "r" : 135,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-123"
+}, {
+  "rgb-css" : "rgb(175, 0, 0)",
+  "color-id" : 124,
+  "hex-string" : "#af0000",
+  "hsl-css" : "hsl(0, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-124"
+}, {
+  "rgb-css" : "rgb(175, 0, 95)",
+  "color-id" : 125,
+  "hex-string" : "#af005f",
+  "hsl-css" : "hsl(327, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 327
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-125"
+}, {
+  "rgb-css" : "rgb(175, 0, 135)",
+  "color-id" : 126,
+  "hex-string" : "#af0087",
+  "hsl-css" : "hsl(314, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 314
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-126"
+}, {
+  "rgb-css" : "rgb(175, 0, 175)",
+  "color-id" : 127,
+  "hex-string" : "#af00af",
+  "hsl-css" : "hsl(300, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-127"
+}, {
+  "rgb-css" : "rgb(175, 0, 215)",
+  "color-id" : 128,
+  "hex-string" : "#af00d7",
+  "hsl-css" : "hsl(289, 100%, 42%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 289
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-128"
+}, {
+  "rgb-css" : "rgb(175, 0, 255)",
+  "color-id" : 129,
+  "hex-string" : "#af00ff",
+  "hsl-css" : "hsl(281, 100%, 50%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 281
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-129"
+}, {
+  "rgb-css" : "rgb(175, 95, 0)",
+  "color-id" : 130,
+  "hex-string" : "#af5f00",
+  "hsl-css" : "hsl(33, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 33
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-130"
+}, {
+  "rgb-css" : "rgb(175, 95, 95)",
+  "color-id" : 131,
+  "hex-string" : "#af5f5f",
+  "hsl-css" : "hsl(0, 33%, 53%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-131"
+}, {
+  "rgb-css" : "rgb(175, 95, 135)",
+  "color-id" : 132,
+  "hex-string" : "#af5f87",
+  "hsl-css" : "hsl(330, 33%, 53%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 330
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-132"
+}, {
+  "rgb-css" : "rgb(175, 95, 175)",
+  "color-id" : 133,
+  "hex-string" : "#af5faf",
+  "hsl-css" : "hsl(300, 33%, 53%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-133"
+}, {
+  "rgb-css" : "rgb(175, 95, 215)",
+  "color-id" : 134,
+  "hex-string" : "#af5fd7",
+  "hsl-css" : "hsl(280, 60%, 61%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 280
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-134"
+}, {
+  "rgb-css" : "rgb(175, 95, 255)",
+  "color-id" : 135,
+  "hex-string" : "#af5fff",
+  "hsl-css" : "hsl(270, 100%, 69%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 270
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-135"
+}, {
+  "rgb-css" : "rgb(175, 135, 0)",
+  "color-id" : 136,
+  "hex-string" : "#af8700",
+  "hsl-css" : "hsl(46, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 46
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-136"
+}, {
+  "rgb-css" : "rgb(175, 135, 95)",
+  "color-id" : 137,
+  "hex-string" : "#af875f",
+  "hsl-css" : "hsl(30, 33%, 53%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 30
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-137"
+}, {
+  "rgb-css" : "rgb(175, 135, 135)",
+  "color-id" : 138,
+  "hex-string" : "#af8787",
+  "hsl-css" : "hsl(0, 20%, 61%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-138"
+}, {
+  "rgb-css" : "rgb(175, 135, 175)",
+  "color-id" : 139,
+  "hex-string" : "#af87af",
+  "hsl-css" : "hsl(300, 20%, 61%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-139"
+}, {
+  "rgb-css" : "rgb(175, 135, 215)",
+  "color-id" : 140,
+  "hex-string" : "#af87d7",
+  "hsl-css" : "hsl(270, 50%, 69%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 270
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-140"
+}, {
+  "rgb-css" : "rgb(175, 135, 255)",
+  "color-id" : 141,
+  "hex-string" : "#af87ff",
+  "hsl-css" : "hsl(260, 100%, 76%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 260
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-141"
+}, {
+  "rgb-css" : "rgb(175, 175, 0)",
+  "color-id" : 142,
+  "hex-string" : "#afaf00",
+  "hsl-css" : "hsl(60, 100%, 34%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 34,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-142"
+}, {
+  "rgb-css" : "rgb(175, 175, 95)",
+  "color-id" : 143,
+  "hex-string" : "#afaf5f",
+  "hsl-css" : "hsl(60, 33%, 53%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 53,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-143"
+}, {
+  "rgb-css" : "rgb(175, 175, 135)",
+  "color-id" : 144,
+  "hex-string" : "#afaf87",
+  "hsl-css" : "hsl(60, 20%, 61%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 20,
+    "l" : 61,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-144"
+}, {
+  "rgb-css" : "rgb(175, 175, 175)",
+  "color-id" : 145,
+  "hex-string" : "#afafaf",
+  "hsl-css" : "hsl(0, 0%, 69%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 69,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-145"
+}, {
+  "rgb-css" : "rgb(175, 175, 215)",
+  "color-id" : 146,
+  "hex-string" : "#afafd7",
+  "hsl-css" : "hsl(240, 33%, 76%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-146"
+}, {
+  "rgb-css" : "rgb(175, 175, 255)",
+  "color-id" : 147,
+  "hex-string" : "#afafff",
+  "hsl-css" : "hsl(240, 100%, 84%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-147"
+}, {
+  "rgb-css" : "rgb(175, 215, 0)",
+  "color-id" : 148,
+  "hex-string" : "#afd700",
+  "hsl-css" : "hsl(71, 100%, 42%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 71
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-148"
+}, {
+  "rgb-css" : "rgb(175, 215, 95)",
+  "color-id" : 149,
+  "hex-string" : "#afd75f",
+  "hsl-css" : "hsl(80, 60%, 61%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 80
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-149"
+}, {
+  "rgb-css" : "rgb(175, 215, 135)",
+  "color-id" : 150,
+  "hex-string" : "#afd787",
+  "hsl-css" : "hsl(90, 50%, 69%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 90
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-150"
+}, {
+  "rgb-css" : "rgb(175, 215, 175)",
+  "color-id" : 151,
+  "hex-string" : "#afd7af",
+  "hsl-css" : "hsl(120, 33%, 76%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-151"
+}, {
+  "rgb-css" : "rgb(175, 215, 215)",
+  "color-id" : 152,
+  "hex-string" : "#afd7d7",
+  "hsl-css" : "hsl(180, 33%, 76%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-152"
+}, {
+  "rgb-css" : "rgb(175, 215, 255)",
+  "color-id" : 153,
+  "hex-string" : "#afd7ff",
+  "hsl-css" : "hsl(210, 100%, 84%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 210
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-153"
+}, {
+  "rgb-css" : "rgb(175, 255, 0)",
+  "color-id" : 154,
+  "hex-string" : "#afff00",
+  "hsl-css" : "hsl(79, 100%, 50%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 79
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-154"
+}, {
+  "rgb-css" : "rgb(175, 255, 95)",
+  "color-id" : 155,
+  "hex-string" : "#afff5f",
+  "hsl-css" : "hsl(90, 100%, 69%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 90
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-155"
+}, {
+  "rgb-css" : "rgb(175, 255, 135)",
+  "color-id" : 156,
+  "hex-string" : "#afff87",
+  "hsl-css" : "hsl(100, 100%, 76%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 100
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-156"
+}, {
+  "rgb-css" : "rgb(175, 255, 175)",
+  "color-id" : 157,
+  "hex-string" : "#afffaf",
+  "hsl-css" : "hsl(120, 100%, 84%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-157"
+}, {
+  "rgb-css" : "rgb(175, 255, 215)",
+  "color-id" : 158,
+  "hex-string" : "#afffd7",
+  "hsl-css" : "hsl(150, 100%, 84%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 150
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-158"
+}, {
+  "rgb-css" : "rgb(175, 255, 255)",
+  "color-id" : 159,
+  "hex-string" : "#afffff",
+  "hsl-css" : "hsl(180, 100%, 84%)",
+  "rgb" : {
+    "r" : 175,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-159"
+}, {
+  "rgb-css" : "rgb(215, 0, 0)",
+  "color-id" : 160,
+  "hex-string" : "#d70000",
+  "hsl-css" : "hsl(0, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-160"
+}, {
+  "rgb-css" : "rgb(215, 0, 95)",
+  "color-id" : 161,
+  "hex-string" : "#d7005f",
+  "hsl-css" : "hsl(333, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 333
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-161"
+}, {
+  "rgb-css" : "rgb(215, 0, 135)",
+  "color-id" : 162,
+  "hex-string" : "#d70087",
+  "hsl-css" : "hsl(322, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 322
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-162"
+}, {
+  "rgb-css" : "rgb(215, 0, 175)",
+  "color-id" : 163,
+  "hex-string" : "#d700af",
+  "hsl-css" : "hsl(311, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 311
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-163"
+}, {
+  "rgb-css" : "rgb(215, 0, 215)",
+  "color-id" : 164,
+  "hex-string" : "#d700d7",
+  "hsl-css" : "hsl(300, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-164"
+}, {
+  "rgb-css" : "rgb(215, 0, 255)",
+  "color-id" : 165,
+  "hex-string" : "#d700ff",
+  "hsl-css" : "hsl(291, 100%, 50%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 291
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-165"
+}, {
+  "rgb-css" : "rgb(215, 95, 0)",
+  "color-id" : 166,
+  "hex-string" : "#d75f00",
+  "hsl-css" : "hsl(27, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 27
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-166"
+}, {
+  "rgb-css" : "rgb(215, 95, 95)",
+  "color-id" : 167,
+  "hex-string" : "#d75f5f",
+  "hsl-css" : "hsl(0, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-167"
+}, {
+  "rgb-css" : "rgb(215, 95, 135)",
+  "color-id" : 168,
+  "hex-string" : "#d75f87",
+  "hsl-css" : "hsl(340, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 340
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-168"
+}, {
+  "rgb-css" : "rgb(215, 95, 175)",
+  "color-id" : 169,
+  "hex-string" : "#d75faf",
+  "hsl-css" : "hsl(320, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 320
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-169"
+}, {
+  "rgb-css" : "rgb(215, 95, 215)",
+  "color-id" : 170,
+  "hex-string" : "#d75fd7",
+  "hsl-css" : "hsl(300, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-170"
+}, {
+  "rgb-css" : "rgb(215, 95, 255)",
+  "color-id" : 171,
+  "hex-string" : "#d75fff",
+  "hsl-css" : "hsl(285, 100%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 285
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-171"
+}, {
+  "rgb-css" : "rgb(215, 135, 0)",
+  "color-id" : 172,
+  "hex-string" : "#d78700",
+  "hsl-css" : "hsl(38, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 38
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-172"
+}, {
+  "rgb-css" : "rgb(215, 135, 95)",
+  "color-id" : 173,
+  "hex-string" : "#d7875f",
+  "hsl-css" : "hsl(20, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 20
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-173"
+}, {
+  "rgb-css" : "rgb(215, 135, 135)",
+  "color-id" : 174,
+  "hex-string" : "#d78787",
+  "hsl-css" : "hsl(0, 50%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-174"
+}, {
+  "rgb-css" : "rgb(215, 135, 175)",
+  "color-id" : 175,
+  "hex-string" : "#d787af",
+  "hsl-css" : "hsl(330, 50%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 330
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-175"
+}, {
+  "rgb-css" : "rgb(215, 135, 215)",
+  "color-id" : 176,
+  "hex-string" : "#d787d7",
+  "hsl-css" : "hsl(300, 50%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-176"
+}, {
+  "rgb-css" : "rgb(215, 135, 255)",
+  "color-id" : 177,
+  "hex-string" : "#d787ff",
+  "hsl-css" : "hsl(280, 100%, 76%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 280
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-177"
+}, {
+  "rgb-css" : "rgb(215, 175, 0)",
+  "color-id" : 178,
+  "hex-string" : "#d7af00",
+  "hsl-css" : "hsl(49, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 49
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-178"
+}, {
+  "rgb-css" : "rgb(215, 175, 95)",
+  "color-id" : 179,
+  "hex-string" : "#d7af5f",
+  "hsl-css" : "hsl(40, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 40
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-179"
+}, {
+  "rgb-css" : "rgb(215, 175, 135)",
+  "color-id" : 180,
+  "hex-string" : "#d7af87",
+  "hsl-css" : "hsl(30, 50%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 30
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-180"
+}, {
+  "rgb-css" : "rgb(215, 175, 175)",
+  "color-id" : 181,
+  "hex-string" : "#d7afaf",
+  "hsl-css" : "hsl(0, 33%, 76%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-181"
+}, {
+  "rgb-css" : "rgb(215, 175, 215)",
+  "color-id" : 182,
+  "hex-string" : "#d7afd7",
+  "hsl-css" : "hsl(300, 33%, 76%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-182"
+}, {
+  "rgb-css" : "rgb(215, 175, 255)",
+  "color-id" : 183,
+  "hex-string" : "#d7afff",
+  "hsl-css" : "hsl(270, 100%, 84%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 270
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-183"
+}, {
+  "rgb-css" : "rgb(215, 215, 0)",
+  "color-id" : 184,
+  "hex-string" : "#d7d700",
+  "hsl-css" : "hsl(60, 100%, 42%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 42,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-184"
+}, {
+  "rgb-css" : "rgb(215, 215, 95)",
+  "color-id" : 185,
+  "hex-string" : "#d7d75f",
+  "hsl-css" : "hsl(60, 60%, 61%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 60,
+    "l" : 61,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-185"
+}, {
+  "rgb-css" : "rgb(215, 215, 135)",
+  "color-id" : 186,
+  "hex-string" : "#d7d787",
+  "hsl-css" : "hsl(60, 50%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 50,
+    "l" : 69,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-186"
+}, {
+  "rgb-css" : "rgb(215, 215, 175)",
+  "color-id" : 187,
+  "hex-string" : "#d7d7af",
+  "hsl-css" : "hsl(60, 33%, 76%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 33,
+    "l" : 76,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-187"
+}, {
+  "rgb-css" : "rgb(215, 215, 215)",
+  "color-id" : 188,
+  "hex-string" : "#d7d7d7",
+  "hsl-css" : "hsl(0, 0%, 84%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 84,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-188"
+}, {
+  "rgb-css" : "rgb(215, 215, 255)",
+  "color-id" : 189,
+  "hex-string" : "#d7d7ff",
+  "hsl-css" : "hsl(240, 100%, 92%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 240
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-189"
+}, {
+  "rgb-css" : "rgb(215, 255, 0)",
+  "color-id" : 190,
+  "hex-string" : "#d7ff00",
+  "hsl-css" : "hsl(69, 100%, 50%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 69
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-190"
+}, {
+  "rgb-css" : "rgb(215, 255, 95)",
+  "color-id" : 191,
+  "hex-string" : "#d7ff5f",
+  "hsl-css" : "hsl(75, 100%, 69%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 75
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-191"
+}, {
+  "rgb-css" : "rgb(215, 255, 135)",
+  "color-id" : 192,
+  "hex-string" : "#d7ff87",
+  "hsl-css" : "hsl(80, 100%, 76%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 80
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-192"
+}, {
+  "rgb-css" : "rgb(215, 255, 175)",
+  "color-id" : 193,
+  "hex-string" : "#d7ffaf",
+  "hsl-css" : "hsl(90, 100%, 84%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 90
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-193"
+}, {
+  "rgb-css" : "rgb(215, 255, 215)",
+  "color-id" : 194,
+  "hex-string" : "#d7ffd7",
+  "hsl-css" : "hsl(120, 100%, 92%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 120
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-194"
+}, {
+  "rgb-css" : "rgb(215, 255, 255)",
+  "color-id" : 195,
+  "hex-string" : "#d7ffff",
+  "hsl-css" : "hsl(180, 100%, 92%)",
+  "rgb" : {
+    "r" : 215,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 180
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-195"
+}, {
+  "rgb-css" : "rgb(255, 0, 0)",
+  "color-id" : 196,
+  "hex-string" : "#ff0000",
+  "hsl-css" : "hsl(0, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-196"
+}, {
+  "rgb-css" : "rgb(255, 0, 95)",
+  "color-id" : 197,
+  "hex-string" : "#ff005f",
+  "hsl-css" : "hsl(338, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 338
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-197"
+}, {
+  "rgb-css" : "rgb(255, 0, 135)",
+  "color-id" : 198,
+  "hex-string" : "#ff0087",
+  "hsl-css" : "hsl(328, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 328
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-198"
+}, {
+  "rgb-css" : "rgb(255, 0, 175)",
+  "color-id" : 199,
+  "hex-string" : "#ff00af",
+  "hsl-css" : "hsl(319, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 319
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-199"
+}, {
+  "rgb-css" : "rgb(255, 0, 215)",
+  "color-id" : 200,
+  "hex-string" : "#ff00d7",
+  "hsl-css" : "hsl(309, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 309
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-200"
+}, {
+  "rgb-css" : "rgb(255, 0, 255)",
+  "color-id" : 201,
+  "hex-string" : "#ff00ff",
+  "hsl-css" : "hsl(300, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 0,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-201"
+}, {
+  "rgb-css" : "rgb(255, 95, 0)",
+  "color-id" : 202,
+  "hex-string" : "#ff5f00",
+  "hsl-css" : "hsl(22, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 22
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-202"
+}, {
+  "rgb-css" : "rgb(255, 95, 95)",
+  "color-id" : 203,
+  "hex-string" : "#ff5f5f",
+  "hsl-css" : "hsl(0, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-203"
+}, {
+  "rgb-css" : "rgb(255, 95, 135)",
+  "color-id" : 204,
+  "hex-string" : "#ff5f87",
+  "hsl-css" : "hsl(345, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 345
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-204"
+}, {
+  "rgb-css" : "rgb(255, 95, 175)",
+  "color-id" : 205,
+  "hex-string" : "#ff5faf",
+  "hsl-css" : "hsl(330, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 330
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-205"
+}, {
+  "rgb-css" : "rgb(255, 95, 215)",
+  "color-id" : 206,
+  "hex-string" : "#ff5fd7",
+  "hsl-css" : "hsl(315, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 315
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-206"
+}, {
+  "rgb-css" : "rgb(255, 95, 255)",
+  "color-id" : 207,
+  "hex-string" : "#ff5fff",
+  "hsl-css" : "hsl(300, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 95,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-207"
+}, {
+  "rgb-css" : "rgb(255, 135, 0)",
+  "color-id" : 208,
+  "hex-string" : "#ff8700",
+  "hsl-css" : "hsl(32, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 32
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-208"
+}, {
+  "rgb-css" : "rgb(255, 135, 95)",
+  "color-id" : 209,
+  "hex-string" : "#ff875f",
+  "hsl-css" : "hsl(15, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 15
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-209"
+}, {
+  "rgb-css" : "rgb(255, 135, 135)",
+  "color-id" : 210,
+  "hex-string" : "#ff8787",
+  "hsl-css" : "hsl(0, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-210"
+}, {
+  "rgb-css" : "rgb(255, 135, 175)",
+  "color-id" : 211,
+  "hex-string" : "#ff87af",
+  "hsl-css" : "hsl(340, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 340
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-211"
+}, {
+  "rgb-css" : "rgb(255, 135, 215)",
+  "color-id" : 212,
+  "hex-string" : "#ff87d7",
+  "hsl-css" : "hsl(320, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 320
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-212"
+}, {
+  "rgb-css" : "rgb(255, 135, 255)",
+  "color-id" : 213,
+  "hex-string" : "#ff87ff",
+  "hsl-css" : "hsl(300, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 135,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-213"
+}, {
+  "rgb-css" : "rgb(255, 175, 0)",
+  "color-id" : 214,
+  "hex-string" : "#ffaf00",
+  "hsl-css" : "hsl(41, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 41
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-214"
+}, {
+  "rgb-css" : "rgb(255, 175, 95)",
+  "color-id" : 215,
+  "hex-string" : "#ffaf5f",
+  "hsl-css" : "hsl(30, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 30
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-215"
+}, {
+  "rgb-css" : "rgb(255, 175, 135)",
+  "color-id" : 216,
+  "hex-string" : "#ffaf87",
+  "hsl-css" : "hsl(20, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 20
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-216"
+}, {
+  "rgb-css" : "rgb(255, 175, 175)",
+  "color-id" : 217,
+  "hex-string" : "#ffafaf",
+  "hsl-css" : "hsl(0, 100%, 84%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-217"
+}, {
+  "rgb-css" : "rgb(255, 175, 215)",
+  "color-id" : 218,
+  "hex-string" : "#ffafd7",
+  "hsl-css" : "hsl(330, 100%, 84%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 330
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-218"
+}, {
+  "rgb-css" : "rgb(255, 175, 255)",
+  "color-id" : 219,
+  "hex-string" : "#ffafff",
+  "hsl-css" : "hsl(300, 100%, 84%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 175,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-219"
+}, {
+  "rgb-css" : "rgb(255, 215, 0)",
+  "color-id" : 220,
+  "hex-string" : "#ffd700",
+  "hsl-css" : "hsl(51, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 51
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-220"
+}, {
+  "rgb-css" : "rgb(255, 215, 95)",
+  "color-id" : 221,
+  "hex-string" : "#ffd75f",
+  "hsl-css" : "hsl(45, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 45
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-221"
+}, {
+  "rgb-css" : "rgb(255, 215, 135)",
+  "color-id" : 222,
+  "hex-string" : "#ffd787",
+  "hsl-css" : "hsl(40, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 40
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-222"
+}, {
+  "rgb-css" : "rgb(255, 215, 175)",
+  "color-id" : 223,
+  "hex-string" : "#ffd7af",
+  "hsl-css" : "hsl(30, 100%, 84%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 30
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-223"
+}, {
+  "rgb-css" : "rgb(255, 215, 215)",
+  "color-id" : 224,
+  "hex-string" : "#ffd7d7",
+  "hsl-css" : "hsl(0, 100%, 92%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-224"
+}, {
+  "rgb-css" : "rgb(255, 215, 255)",
+  "color-id" : 225,
+  "hex-string" : "#ffd7ff",
+  "hsl-css" : "hsl(300, 100%, 92%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 215,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 300
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-225"
+}, {
+  "rgb-css" : "rgb(255, 255, 0)",
+  "color-id" : 226,
+  "hex-string" : "#ffff00",
+  "hsl-css" : "hsl(60, 100%, 50%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 0
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 50,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-226"
+}, {
+  "rgb-css" : "rgb(255, 255, 95)",
+  "color-id" : 227,
+  "hex-string" : "#ffff5f",
+  "hsl-css" : "hsl(60, 100%, 69%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 95
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 69,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-227"
+}, {
+  "rgb-css" : "rgb(255, 255, 135)",
+  "color-id" : 228,
+  "hex-string" : "#ffff87",
+  "hsl-css" : "hsl(60, 100%, 76%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 135
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 76,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-228"
+}, {
+  "rgb-css" : "rgb(255, 255, 175)",
+  "color-id" : 229,
+  "hex-string" : "#ffffaf",
+  "hsl-css" : "hsl(60, 100%, 84%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 175
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 84,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-229"
+}, {
+  "rgb-css" : "rgb(255, 255, 215)",
+  "color-id" : 230,
+  "hex-string" : "#ffffd7",
+  "hsl-css" : "hsl(60, 100%, 92%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 215
+  },
+  "hsl" : {
+    "s" : 100,
+    "l" : 92,
+    "h" : 60
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-230"
+}, {
+  "rgb-css" : "rgb(255, 255, 255)",
+  "color-id" : 231,
+  "hex-string" : "#ffffff",
+  "hsl-css" : "hsl(0, 0%, 100%)",
+  "rgb" : {
+    "r" : 255,
+    "g" : 255,
+    "b" : 255
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 100,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-231"
+}, {
+  "rgb-css" : "rgb(8, 8, 8)",
+  "color-id" : 232,
+  "hex-string" : "#080808",
+  "hsl-css" : "hsl(0, 0%, 3%)",
+  "rgb" : {
+    "r" : 8,
+    "g" : 8,
+    "b" : 8
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 3,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-232"
+}, {
+  "rgb-css" : "rgb(18, 18, 18)",
+  "color-id" : 233,
+  "hex-string" : "#121212",
+  "hsl-css" : "hsl(0, 0%, 7%)",
+  "rgb" : {
+    "r" : 18,
+    "g" : 18,
+    "b" : 18
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 7,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-233"
+}, {
+  "rgb-css" : "rgb(28, 28, 28)",
+  "color-id" : 234,
+  "hex-string" : "#1c1c1c",
+  "hsl-css" : "hsl(0, 0%, 11%)",
+  "rgb" : {
+    "r" : 28,
+    "g" : 28,
+    "b" : 28
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 11,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-234"
+}, {
+  "rgb-css" : "rgb(38, 38, 38)",
+  "color-id" : 235,
+  "hex-string" : "#262626",
+  "hsl-css" : "hsl(0, 0%, 15%)",
+  "rgb" : {
+    "r" : 38,
+    "g" : 38,
+    "b" : 38
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 15,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-235"
+}, {
+  "rgb-css" : "rgb(48, 48, 48)",
+  "color-id" : 236,
+  "hex-string" : "#303030",
+  "hsl-css" : "hsl(0, 0%, 19%)",
+  "rgb" : {
+    "r" : 48,
+    "g" : 48,
+    "b" : 48
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 19,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-236"
+}, {
+  "rgb-css" : "rgb(58, 58, 58)",
+  "color-id" : 237,
+  "hex-string" : "#3a3a3a",
+  "hsl-css" : "hsl(0, 0%, 23%)",
+  "rgb" : {
+    "r" : 58,
+    "g" : 58,
+    "b" : 58
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 23,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-237"
+}, {
+  "rgb-css" : "rgb(68, 68, 68)",
+  "color-id" : 238,
+  "hex-string" : "#444444",
+  "hsl-css" : "hsl(0, 0%, 27%)",
+  "rgb" : {
+    "r" : 68,
+    "g" : 68,
+    "b" : 68
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 27,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-238"
+}, {
+  "rgb-css" : "rgb(78, 78, 78)",
+  "color-id" : 239,
+  "hex-string" : "#4e4e4e",
+  "hsl-css" : "hsl(0, 0%, 31%)",
+  "rgb" : {
+    "r" : 78,
+    "g" : 78,
+    "b" : 78
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 31,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-239"
+}, {
+  "rgb-css" : "rgb(88, 88, 88)",
+  "color-id" : 240,
+  "hex-string" : "#585858",
+  "hsl-css" : "hsl(0, 0%, 35%)",
+  "rgb" : {
+    "r" : 88,
+    "g" : 88,
+    "b" : 88
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 35,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-240"
+}, {
+  "rgb-css" : "rgb(98, 98, 98)",
+  "color-id" : 241,
+  "hex-string" : "#626262",
+  "hsl-css" : "hsl(0, 0%, 38%)",
+  "rgb" : {
+    "r" : 98,
+    "g" : 98,
+    "b" : 98
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 38,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-241"
+}, {
+  "rgb-css" : "rgb(108, 108, 108)",
+  "color-id" : 242,
+  "hex-string" : "#6c6c6c",
+  "hsl-css" : "hsl(0, 0%, 42%)",
+  "rgb" : {
+    "r" : 108,
+    "g" : 108,
+    "b" : 108
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 42,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-242"
+}, {
+  "rgb-css" : "rgb(118, 118, 118)",
+  "color-id" : 243,
+  "hex-string" : "#767676",
+  "hsl-css" : "hsl(0, 0%, 46%)",
+  "rgb" : {
+    "r" : 118,
+    "g" : 118,
+    "b" : 118
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 46,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-243"
+}, {
+  "rgb-css" : "rgb(128, 128, 128)",
+  "color-id" : 244,
+  "hex-string" : "#808080",
+  "hsl-css" : "hsl(0, 0%, 50%)",
+  "rgb" : {
+    "r" : 128,
+    "g" : 128,
+    "b" : 128
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 50,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-244"
+}, {
+  "rgb-css" : "rgb(138, 138, 138)",
+  "color-id" : 245,
+  "hex-string" : "#8a8a8a",
+  "hsl-css" : "hsl(0, 0%, 54%)",
+  "rgb" : {
+    "r" : 138,
+    "g" : 138,
+    "b" : 138
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 54,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-245"
+}, {
+  "rgb-css" : "rgb(148, 148, 148)",
+  "color-id" : 246,
+  "hex-string" : "#949494",
+  "hsl-css" : "hsl(0, 0%, 58%)",
+  "rgb" : {
+    "r" : 148,
+    "g" : 148,
+    "b" : 148
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 58,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-246"
+}, {
+  "rgb-css" : "rgb(158, 158, 158)",
+  "color-id" : 247,
+  "hex-string" : "#9e9e9e",
+  "hsl-css" : "hsl(0, 0%, 62%)",
+  "rgb" : {
+    "r" : 158,
+    "g" : 158,
+    "b" : 158
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 62,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-247"
+}, {
+  "rgb-css" : "rgb(168, 168, 168)",
+  "color-id" : 248,
+  "hex-string" : "#a8a8a8",
+  "hsl-css" : "hsl(0, 0%, 66%)",
+  "rgb" : {
+    "r" : 168,
+    "g" : 168,
+    "b" : 168
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 66,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-248"
+}, {
+  "rgb-css" : "rgb(178, 178, 178)",
+  "color-id" : 249,
+  "hex-string" : "#b2b2b2",
+  "hsl-css" : "hsl(0, 0%, 70%)",
+  "rgb" : {
+    "r" : 178,
+    "g" : 178,
+    "b" : 178
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 70,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-249"
+}, {
+  "rgb-css" : "rgb(188, 188, 188)",
+  "color-id" : 250,
+  "hex-string" : "#bcbcbc",
+  "hsl-css" : "hsl(0, 0%, 74%)",
+  "rgb" : {
+    "r" : 188,
+    "g" : 188,
+    "b" : 188
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 74,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-250"
+}, {
+  "rgb-css" : "rgb(198, 198, 198)",
+  "color-id" : 251,
+  "hex-string" : "#c6c6c6",
+  "hsl-css" : "hsl(0, 0%, 78%)",
+  "rgb" : {
+    "r" : 198,
+    "g" : 198,
+    "b" : 198
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 78,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-251"
+}, {
+  "rgb-css" : "rgb(208, 208, 208)",
+  "color-id" : 252,
+  "hex-string" : "#d0d0d0",
+  "hsl-css" : "hsl(0, 0%, 82%)",
+  "rgb" : {
+    "r" : 208,
+    "g" : 208,
+    "b" : 208
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 82,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-252"
+}, {
+  "rgb-css" : "rgb(218, 218, 218)",
+  "color-id" : 253,
+  "hex-string" : "#dadada",
+  "hsl-css" : "hsl(0, 0%, 85%)",
+  "rgb" : {
+    "r" : 218,
+    "g" : 218,
+    "b" : 218
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 85,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-253"
+}, {
+  "rgb-css" : "rgb(228, 228, 228)",
+  "color-id" : 254,
+  "hex-string" : "#e4e4e4",
+  "hsl-css" : "hsl(0, 0%, 89%)",
+  "rgb" : {
+    "r" : 228,
+    "g" : 228,
+    "b" : 228
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 89,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-254"
+}, {
+  "rgb-css" : "rgb(238, 238, 238)",
+  "color-id" : 255,
+  "hex-string" : "#eeeeee",
+  "hsl-css" : "hsl(0, 0%, 93%)",
+  "rgb" : {
+    "r" : 238,
+    "g" : 238,
+    "b" : 238
+  },
+  "hsl" : {
+    "s" : 0,
+    "l" : 93,
+    "h" : 0
+  },
+  "is-ansi" : false,
+  "emacs-name" : "color-255"
+} ]
